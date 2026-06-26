@@ -36,9 +36,10 @@ jobs:
           echo test, and deploy your project.
           pwd
           ls -a
+          echo test, checking
 
 
 
-          
+
 
       
